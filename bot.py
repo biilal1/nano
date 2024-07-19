@@ -5,13 +5,13 @@ from pyromod import listen
 
 bot = Client(
     "mo",
-    api_id=8186557,
-    api_hash="efd77b34c69c164ce158037ff5a0d117",
-    bot_token="6405234806:AAEKv4P8kbUkcYMDTQv7r2RvSPv9p4zAhRw",
+    api_id=22284698,
+    api_hash="80114fbfcdb5b886a9e69f31a7e6b248",
+    bot_token="7327600929:AAF3E7EXyjnlmRlzBUvTu3NSWZcwEo66uC0",
     plugins=dict(root="MZombie")
     )
 
-DEVS = ["p_m_4","Zo_Mbi_e","G_O_OZ", "PROGRAMMER_TOM"] 
+DEVS = ["N_7_K","M_9_T","M_9_T", "noordot"] 
 
 bot_id = bot.bot_token.split(":")[0]
 
