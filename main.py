@@ -5,7 +5,6 @@ import sys
 import random
 import asyncio
 from pyrogram import Client
-from pytgcalls import PyTgCalls
 from bot import *
 from pyromod import listen
 
